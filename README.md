@@ -208,16 +208,3 @@ The literature review folder was updated with relevant journal articles.
 Initial quantitative analysis scripts were added to the repository.
 ```
 
-## Contributors
-
-* Code Reviewer: [Student Name]
-* Developer 1: [Student Name]
-* Developer 2: [Student Name]
-
-## Repository
-
-Repository name:
-
-`Generative_AI_Research_SID`
-
-Replace `SID` with the required 8-digit student ID.
